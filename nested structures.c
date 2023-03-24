@@ -1,3 +1,4 @@
+//From https://www.programiz.com/c-programming/c-structures
 // Online C compiler to run C program online
 #include <stdio.h>
 
